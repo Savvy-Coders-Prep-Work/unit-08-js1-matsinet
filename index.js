@@ -8,7 +8,7 @@
 // Instructions:
 
 // 1. Declare a variable named 'firstName' and assign it a string value of your first name.
-
+const firstName = "Matt";
 // 2. Declare a variable named 'age' and assign it a number value of your age.
 
 // 3. Declare a variable named 'isProgrammer' and assign it a boolean value representing whether you are a programmer or not.
