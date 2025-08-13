@@ -8,9 +8,9 @@
 // Instructions:
 
 // 1. Declare a variable named 'firstName' and assign it a string value of your first name.
-
+const firstName = "Matt";
 // 2. Declare a variable named 'age' and assign it a number value of your age.
-
+let age = 21;
 // 3. Declare a variable named 'isProgrammer' and assign it a boolean value representing whether you are a programmer or not.
 
 // 4. Declare a variable named 'canVote'. This variable should hold a boolean value indicating whether a person of your age is eligible to vote. (In most countries, the voting age is 18.)
